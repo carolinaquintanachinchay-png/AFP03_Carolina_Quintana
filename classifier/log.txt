@@ -1162,7 +1162,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 1
 
-Precalculation time: 7.788
+Precalculation time: 7.744
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -1188,7 +1188,7 @@ Precalculation time: 7.788
 
 END>
 
-Training until now has taken 0 days 0 hours 0 minutes 24 seconds.
+Training until now has taken 0 days 0 hours 0 minutes 55 seconds.
 
 
 ===== TRAINING 1-stage =====
@@ -1958,7 +1958,8 @@ NEG current samples: 656
 NEG current samples: 657
 NEG current samples: 658
 NEG current samples: 659
-NEG current samples: 660
+NEG current sampl
+es: 660
 NEG current samples: 661
 NEG current samples: 662
 NEG current samples: 663
@@ -2122,7 +2123,8 @@ NEG current samples: 820
 NEG current samples: 821
 NEG current samples: 822
 NEG current samples: 823
-NEG current samples: 824
+NEG current s
+amples: 824
 NEG current samples: 825
 NEG current samples: 826
 NEG current samples: 827
@@ -2286,7 +2288,8 @@ NEG current samples: 984
 NEG current samples: 985
 NEG current samples: 986
 NEG current samples: 987
-NEG current samples: 988
+NEG curre
+nt samples: 988
 NEG current samples: 989
 NEG current samples: 990
 NEG current samples: 991
@@ -2301,7 +2304,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.430849
 
-Precalculation time: 4.882
+Precalculation time: 5.064
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -2330,10 +2333,12 @@ Precalculation time: 4.882
 
 END>
 
-Training until now has taken 0 days 0 hours 0 minutes 38 seconds.
+Training until now has taken 0 days 0 hours 1 minutes 9 seconds.
+
 
 ===== TRAINING 2-stage =====
 <BEGIN
+
 POS current samples: 1
 POS current samples: 2
 POS current samples: 3
@@ -3439,7 +3444,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.215936
 
-Precalculation time: 5.005
+Precalculation time: 4.964
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -3465,7 +3470,8 @@ Precalculation time: 5.005
 
 END>
 
-Training until now has taken 0 days 0 hours 0 minutes 48 seconds.
+Training until now has taken 0 days 0 hours 1 minutes 19 seconds.
+
 
 ===== TRAINING 3-stage =====
 <BEGIN
@@ -4067,7 +4073,8 @@ NEG current samples: 492
 NEG current samples: 493
 NEG current samples: 494
 NEG current samples: 495
-NEG current samples: 496
+NEG current samples: 
+496
 NEG current samples: 497
 NEG current samples: 498
 NEG current samples: 499
@@ -4231,8 +4238,7 @@ NEG current samples: 656
 NEG current samples: 657
 NEG current samples: 658
 NEG current samples: 659
-NEG current sampl
-es: 660
+NEG current samples: 660
 NEG current samples: 661
 NEG current samples: 662
 NEG current samples: 663
@@ -4577,7 +4583,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.11383
 
-Precalculation time: 5.104
+Precalculation time: 4.974
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -4609,7 +4615,7 @@ Precalculation time: 5.104
 
 END>
 
-Training until now has taken 0 days 0 hours 1 minutes 3 seconds.
+Training until now has taken 0 days 0 hours 1 minutes 35 seconds.
 
 
 ===== TRAINING 4-stage =====
@@ -5376,8 +5382,7 @@ NEG current samples: 656
 NEG current samples: 657
 NEG current samples: 658
 NEG current samples: 659
-NEG current sampl
-es: 660
+NEG current samples: 660
 NEG current samples: 661
 NEG current samples: 662
 NEG current samples: 663
@@ -5541,7 +5546,8 @@ NEG current samples: 820
 NEG current samples: 821
 NEG current samples: 822
 NEG current samples: 823
-NEG current samples: 824
+NEG current s
+amples: 824
 NEG current samples: 825
 NEG current samples: 826
 NEG current samples: 827
@@ -5720,7 +5726,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.19279
 
-Precalculation time: 5.542
+Precalculation time: 5.267
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -5746,8 +5752,7 @@ Precalculation time: 5.542
 
 END>
 
-Training until now has taken 0 days 0 hours 1 minutes 14 seconds.
-
+Training until now has taken 0 days 0 hours 1 minutes 45 seconds.
 
 ===== TRAINING 5-stage =====
 <BEGIN
@@ -6351,8 +6356,7 @@ NEG current samples: 492
 NEG current samples: 493
 NEG current samples: 494
 NEG current samples: 495
-NEG current samples: 
-496
+NEG current samples: 496
 NEG current samples: 497
 NEG current samples: 498
 NEG current samples: 499
@@ -6516,7 +6520,8 @@ NEG current samples: 656
 NEG current samples: 657
 NEG current samples: 658
 NEG current samples: 659
-NEG current samples: 660
+NEG current sampl
+es: 660
 NEG current samples: 661
 NEG current samples: 662
 NEG current samples: 663
@@ -6680,8 +6685,7 @@ NEG current samples: 820
 NEG current samples: 821
 NEG current samples: 822
 NEG current samples: 823
-NEG current s
-amples: 824
+NEG current samples: 824
 NEG current samples: 825
 NEG current samples: 826
 NEG current samples: 827
@@ -6860,7 +6864,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.118807
 
-Precalculation time: 5.471
+Precalculation time: 5.268
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -6883,7 +6887,7 @@ Precalculation time: 5.471
 
 END>
 
-Training until now has taken 0 days 0 hours 1 minutes 24 seconds.
+Training until now has taken 0 days 0 hours 1 minutes 55 seconds.
 
 
 ===== TRAINING 6-stage =====
@@ -7983,7 +7987,8 @@ NEG current samples: 984
 NEG current samples: 985
 NEG current samples: 986
 NEG current samples: 987
-NEG current samples: 988
+NEG curre
+nt samples: 988
 NEG current samples: 989
 NEG current samples: 990
 NEG current samples: 991
@@ -7998,7 +8003,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.0534845
 
-Precalculation time: 5.793
+Precalculation time: 5.42
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -8018,12 +8023,10 @@ Precalculation time: 5.793
 
 END>
 
-Training until now has taken 0 days 0 hours 1 minutes 33 seconds.
-
+Training until now has taken 0 days 0 hours 2 minutes 3 seconds.
 
 ===== TRAINING 7-stage =====
 <BEGIN
-
 POS current samples: 1
 POS current samples: 2
 POS current samples: 3
@@ -9134,7 +9137,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.0360114
 
-Precalculation time: 5.926
+Precalculation time: 5.773
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -9169,7 +9172,7 @@ Precalculation time: 5.926
 
 END>
 
-Training until now has taken 0 days 0 hours 1 minutes 52 seconds.
+Training until now has taken 0 days 0 hours 2 minutes 22 seconds.
 
 
 ===== TRAINING 8-stage =====
@@ -10284,7 +10287,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.0182789
 
-Precalculation time: 5.892
+Precalculation time: 5.568
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -10316,11 +10319,11 @@ Precalculation time: 5.892
 
 END>
 
-Training until now has taken 0 days 0 hours 2 minutes 7 seconds.
-
+Training until now has taken 0 days 0 hours 2 minutes 36 seconds.
 
 ===== TRAINING 9-stage =====
 <BEGIN
+
 POS current samples: 1
 POS current samples: 2
 POS current samples: 3
@@ -11431,7 +11434,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.0103469
 
-Precalculation time: 5.851
+Precalculation time: 6.2
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -11469,7 +11472,7 @@ Precalculation time: 5.851
 
 END>
 
-Training until now has taken 0 days 0 hours 2 minutes 27 seconds.
+Training until now has taken 0 days 0 hours 2 minutes 56 seconds.
 
 
 ===== TRAINING 10-stage =====
@@ -12584,7 +12587,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.00365977
 
-Precalculation time: 5.499
+Precalculation time: 5.421
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -12625,7 +12628,7 @@ Precalculation time: 5.499
 
 END>
 
-Training until now has taken 0 days 0 hours 2 minutes 49 seconds.
+Training until now has taken 0 days 0 hours 3 minutes 16 seconds.
 
 ===== TRAINING 11-stage =====
 <BEGIN
@@ -13740,7 +13743,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.0013933
 
-Precalculation time: 5.704
+Precalculation time: 5.63
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -13775,7 +13778,7 @@ Precalculation time: 5.704
 
 END>
 
-Training until now has taken 0 days 0 hours 3 minutes 9 seconds.
+Training until now has taken 0 days 0 hours 3 minutes 38 seconds.
 
 
 ===== TRAINING 12-stage =====
@@ -14891,7 +14894,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.00103715
 
-Precalculation time: 5.526
+Precalculation time: 5.013
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -14932,11 +14935,11 @@ Precalculation time: 5.526
 
 END>
 
-Training until now has taken 0 days 0 hours 3 minutes 32 seconds.
+Training until now has taken 0 days 0 hours 4 minutes 4 seconds.
+
 
 ===== TRAINING 13-stage =====
 <BEGIN
-
 POS current samples: 1
 POS current samples: 2
 POS current samples: 3
@@ -16047,7 +16050,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.000487487
 
-Precalculation time: 5.538
+Precalculation time: 5.544
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -16082,7 +16085,7 @@ Precalculation time: 5.538
 
 END>
 
-Training until now has taken 0 days 0 hours 3 minutes 54 seconds.
+Training until now has taken 0 days 0 hours 4 minutes 27 seconds.
 
 
 ===== TRAINING 14-stage =====
@@ -17198,7 +17201,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.000251075
 
-Precalculation time: 6.68
+Precalculation time: 6.76
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -17242,8 +17245,7 @@ Precalculation time: 6.68
 
 END>
 
-Training until now has taken 0 days 0 hours 4 minutes 27 seconds.
-
+Training until now has taken 0 days 0 hours 5 minutes 1 seconds.
 
 ===== TRAINING 15-stage =====
 <BEGIN
@@ -18358,7 +18360,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 0.000144954
 
-Precalculation time: 5.714
+Precalculation time: 5.733
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -18399,7 +18401,8 @@ Precalculation time: 5.714
 
 END>
 
-Training until now has taken 0 days 0 hours 5 minutes 4 seconds.
+Training until now has taken 0 days 0 hours 5 minutes 38 seconds.
+
 
 ===== TRAINING 16-stage =====
 <BEGIN
@@ -19513,7 +19516,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 6.31265e-05
 
-Precalculation time: 5.721
+Precalculation time: 5.481
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -19560,11 +19563,11 @@ Precalculation time: 5.721
 
 END>
 
-Training until now has taken 0 days 0 hours 6 minutes 5 seconds.
-
+Training until now has taken 0 days 0 hours 6 minutes 38 seconds.
 
 ===== TRAINING 17-stage =====
 <BEGIN
+
 POS current samples: 1
 POS current samples: 2
 POS current samples: 3
@@ -20675,7 +20678,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 3.09355e-05
 
-Precalculation time: 6.204
+Precalculation time: 5.937
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -20719,8 +20722,7 @@ Precalculation time: 6.204
 
 END>
 
-Training until now has taken 0 days 0 hours 8 minutes 3 seconds.
-
+Training until now has taken 0 days 0 hours 8 minutes 15 seconds.
 
 ===== TRAINING 18-stage =====
 <BEGIN
@@ -21835,7 +21837,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 1.59951e-05
 
-Precalculation time: 6.051
+Precalculation time: 5.496
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -21879,7 +21881,7 @@ Precalculation time: 6.051
 
 END>
 
-Training until now has taken 0 days 0 hours 11 minutes 1 seconds.
+Training until now has taken 0 days 0 hours 11 minutes 7 seconds.
 
 
 ===== TRAINING 19-stage =====
@@ -22995,7 +22997,7 @@ NEG current samples: 999
 NEG current samples: 1000
 NEG count : acceptanceRatio    1000 : 7.08127e-06
 
-Precalculation time: 6.534
+Precalculation time: 6.223
 
 +----+---------+---------+
 |  N |    HR   |    FA   |
@@ -23042,4 +23044,4 @@ Precalculation time: 6.534
 
 END>
 
-Training until now has taken 0 days 0 hours 16 minutes 52 seconds.
+Training until now has taken 0 days 0 hours 16 minutes 58 seconds.
